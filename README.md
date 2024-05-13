@@ -1,7 +1,7 @@
 # Hi!👋 Welcome:
 
 
-I am a developing software engineer, currently in my journey to becoming a frontend developer with the goal of a Full stack developer. I am passiooate about building solutions to further make life better and easier. I belong to a community of developers at [Valdymas Intelligence](https://valdymasafrica.org/). Prior to my journey in frontend development, I was a Digital marketer for years. Basically i am very into creating a powerful online presence and solutions.
+I am a developing software engineer, currently on my journey to becoming a frontend developer with the goal of a Full stack developer. I am passionate about building solutions to further make life better and easier. I belong to a community of developers at [Valdymas Intelligence](https://valdymasafrica.org/). Prior to my journey in frontend development, I was a Digital marketer for years. Basically i am commited to creating a powerful online presence and solutions.
 
 
 **Here is an highlight about me :**
