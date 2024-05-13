@@ -12,4 +12,9 @@ I am a developing software engineer, currently on my journey to becoming a front
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing kmysteryolu@gmail.com.
 
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishola-Deborah&show_icons=true&include_all_commits=true&hide_border=true" alt="Ishola Deborah GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishola-Deborah&langs_count=8&layout=compact&hide_border=true" alt="Ishola Deborah GitHub stats" /> |
+| ------------- | ------------- |
+
 
